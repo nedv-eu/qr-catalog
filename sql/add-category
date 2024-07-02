@@ -1,0 +1,14 @@
+
+SELECT ite.item_id, ite.cat_id from item_category AS ite;
+
+
+SELECT
+  name,
+  id
+FROM
+  category;
+
+ALTER TABLE item_category AS ite
+
+-- INSERT into category (name) VALUES ("test");
+
